@@ -4,6 +4,9 @@ A visual PDF layout editor that generates copy-paste-ready jsPDF JavaScript code
 
 **[→ Try it live](https://jspdf-builder.vercel.app/)**
 
+<img width="1920" height="919" alt="screenshot" src="https://github.com/user-attachments/assets/551e2d98-b53e-4052-985e-7d12eda9d9c5" />
+
+
 ---
 
 ## The Problem
